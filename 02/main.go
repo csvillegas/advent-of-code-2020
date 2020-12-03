@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	util "github.com/csvillegas/advent-of-code-2020/util"
+	"github.com/csvillegas/advent-of-code-2020/util"
 )
 
 var policies = strings.Split(util.Input2, "\n")
